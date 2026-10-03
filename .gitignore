@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+.generated/
+.env
+.env.*
+*.f3d
+fusion-export.json
+*-response.json
+.DS_Store

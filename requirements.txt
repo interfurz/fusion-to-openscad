@@ -1,0 +1,8 @@
+# Optional rendering, mesh validation and 3MF read-back.
+# SCAD generation and Fusion MCP transport use only the standard library.
+numpy>=1.26,<3
+trimesh>=4,<5
+networkx>=3,<4
+lxml>=5,<7
+manifold3d>=3,<4
+scipy>=1.11,<2
